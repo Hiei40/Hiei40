@@ -4,8 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=🚀+Flutter+Developer+%7C+3%2B+Years+Experience;🏗+Clean+Architecture+%7C+Scalable+Systems;⚡+Node.js+%2B+NestJS+Backend+Engineer;🔥+Building+Production-Grade+Mobile+Apps;🇪🇬+Based+in+Egypt+%7C+Open+to+Remote" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+3%2B+Years+Experience;Clean+Architecture+%7C+Scalable+Systems;Node.js+%2B+NestJS+Backend+Engineer;Building+Production-Grade+Apps;Based+in+Egypt+%7C+Open+to+Remote"/>
 <br/>
 
 <a href="https://www.linkedin.com/in/mohamed-khaled-405303182/">
